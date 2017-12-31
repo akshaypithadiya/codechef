@@ -1,7 +1,7 @@
 tc = int(input())
 
 for x in range(tc):
-	t = 0
+	t =0
 	n = int(input())
 	while(n>0):
 		d=n%10
