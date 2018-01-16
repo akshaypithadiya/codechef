@@ -1,3 +1,5 @@
+# Code Sense
+
 tc = int(input())
 
 for x in range(tc):
@@ -13,7 +15,10 @@ for x in range(tc):
 		print(i,end=" ")
 	print()
 
-##### or #######
+
+
+# # # # # # OR # # # # # #
+
 
 tc = int(input())
 
