@@ -7,5 +7,3 @@ for x in range(tc):
 
 	uni = set(ali) & set(ber)
 	print(len(list(uni)))
-
-#solved
