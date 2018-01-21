@@ -7,5 +7,3 @@ for x in range(tc):
 		print("YES")
 	else:
 		print("NO")
-
-#solved

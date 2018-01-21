@@ -17,5 +17,3 @@ for x in range (tc):
 	sqlst = [z**2 for z in nlst]
 	s = sum(sqlst)
 	print(s)
-
-	#solved
